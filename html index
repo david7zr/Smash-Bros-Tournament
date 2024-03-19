@@ -1,4 +1,29 @@
 <!Doctype html>
 <html lang="en">
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torneo Super Smash Bros Ultimate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>¡Super Smash Bros Ultimate!</h1>
+        <h11>by iTzLogic Studio</h11>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="reglas.html">Reglas</a></li>
+            <li><a href="horarios.html">Horarios</a></li>
+            <li><a href="baneos.html">Baneos</a></li>
+            <li><a href="inscripcion.html">Inscripción</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div 
+    </main>
+    <footer>
+        <!-- Pie de página -->
+    </footer>
+</body>
 </html>
