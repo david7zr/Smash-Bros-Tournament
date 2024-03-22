@@ -1,29 +1,34 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Torneo Super Smash Bros Ultimate</title>
+    <title>Tycan Studio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>¡Super Smash Bros Ultimate!</h1>
-        <h11>by iTzLogic Studio</h11>
-    </header>
+    <img class="img-1" src="C:\Users\usuario\Desktop\David Estrada\Html\Images\Header.jpg" alt="">
     <nav>
-        <ul>
-            <li><a href="reglas.html">Reglas</a></li>
-            <li><a href="horarios.html">Horarios</a></li>
-            <li><a href="baneos.html">Baneos</a></li>
-            <li><a href="inscripcion.html">Inscripción</a></li>
-        </ul>
+        <img class="img-2" src="C:\Users\usuario\Desktop\David Estrada\Html\Images\logo.png" alt="">
     </nav>
-    <main>
-        <div 
-    </main>
-    <footer>
-        <!-- Pie de página -->
-    </footer>
+    <div class="Titles">
+    <!--This is where Rules start-->
+    <span class="Rules">
+        <img class="img-rules" src="C:\Users\usuario\Desktop\David Estrada\Html\Images\rules.jpg"
+        href="rules.html"alt="">
+    </span>
+    <!--This is where Schedule start-->
+    <span class="Rules">
+        <img class="img-rules" src="C:\Users\usuario\Desktop\David Estrada\Html\Images\rules.jpg"
+        href="rules.html"alt="">
+    </span>
+
+
+    
+        <ul>
+            <li><a href="schedule.html">Schedule</a></li>
+            <li><a href="ban.html">Ban</a></li>
+            <li><a href="signup.html">Sign Up</a></li>
+        </ul>
+    
 </body>
 </html>
