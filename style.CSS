@@ -1,0 +1,21 @@
+
+html{
+    background-color: black;
+}
+.img-1{
+    max-width: 100%; /* Ancho máximo del 100% del contenedor padre */
+    height: auto;
+    z-index: 1;
+}
+.img-2{
+    position: absolute;
+    max-width: 45%;
+    bottom: 260px;
+    z-index: 3;
+}
+.img-rules{
+    display: block;
+    width: 50%;
+    position: relative;
+    z-index: 2;
+}
