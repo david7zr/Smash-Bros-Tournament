@@ -1,4 +1,3 @@
-
 html{
     background-color: black;
 }
@@ -13,9 +12,28 @@ html{
     bottom: 260px;
     z-index: 3;
 }
-.img-rules{
-    display: block;
-    width: 50%;
-    position: relative;
-    z-index: 2;
+.options {
+    display: flex;
+}
+.options {
+    display: flex;
+}
+
+.column1 .img-rules{
+    flex: 1;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+.column1 .img-rules:hover {
+    transform: scale(1.1); /* Aumenta el tamaño al 110% al pasar el mouse */
+}
+.column2 .img-schedule{
+    flex: 1;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+.column2 .img-schedule:hover {
+    transform: scale(1.1); /* Aumenta el tamaño al 110% al pasar el mouse */
 }
